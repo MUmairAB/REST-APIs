@@ -1,4 +1,0 @@
-To execute the script in the example2.py file, we can run the following command in the command terminal.
-
-cd path_where_the_file_is_stored
-python example2.py

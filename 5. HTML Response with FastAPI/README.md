@@ -1,4 +1,14 @@
+# HTML Response with FastAPI
 
+In this script, we'll define a FastAPI that will return an HTML response rather than the default JSON response.
+
+## FastAPI's HTML response
+
+<img src="https://github.com/MUmairAB/REST-APIs/blob/main/5.%20HTML%20Response%20with%20FastAPI/FastAPI's%20HTML%20response.png?raw=true" width:1338px height:1815px />"
+
+## OpenAI docs / Swagger UI
+
+<img src="https://github.com/MUmairAB/REST-APIs/blob/main/5.%20HTML%20Response%20with%20FastAPI/OpenAI%20docs.png?raw=true" width:1326px height:715px />
 
 ## Command Line
 ```
